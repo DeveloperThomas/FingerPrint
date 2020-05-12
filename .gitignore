@@ -1,4 +1,5 @@
-/ImageProcessing/obj/Debug
-/ImageProcessing/obj/Release
+ImageProcessing/obj/Debug/*
+ImageProcessing/obj/Release/*
 /obj
 /.vs
+
